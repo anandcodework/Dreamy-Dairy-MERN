@@ -1,8 +1,8 @@
 import { configureStore } from '@reduxjs/toolkit'
 import userReducer from './userSlice'
-import Image1 from '../assest/SlideBar.png'
-import Image2 from '../assest/SlideBar2.jpg'
-import Image3 from '../assest/Ice-Cream.jpg'
+import Image1 from '../assest/slidebarIMG/SlideBar1.png'
+import Image2 from '../assest/slidebarIMG/SlideBar2.png'
+import Image3 from '../assest/slidebarIMG/SlideBar3.png'
 
 export const store = configureStore({
   reducer: {
