@@ -14,23 +14,23 @@ export const ImageList = [
   {
     id: 1,
     img: Image1,
-    title: "Upto 50% off on Student",
+    title: "Upto 20% off New User",
     description:
-      "lorem His Life will forever be Changed dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Enjoy up to 20% off on delicious ice creams, exclusively for new users! Indulge in your favorite flavors at a sweet discount. Hurry, grab your treat before the offer melts away!.",
   },
   {
     id: 2,
     img: Image2,
-    title: "30% off on all Office Worker",
+    title: "30% off New User",
     description:
-      "Who's there lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Get up to 30% off on refreshing soft drinks for new users! Grab your favorite flavors at a discounted price—shop now!.",
   },
   {
     id: 3,
     img: Image3,
-    title: "10% off on all Products Sale",
+    title: "Upto 10% off New User",
     description:
-      "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Get up to 20% off on fresh and nutritious milk, exclusively for new users! Enjoy the best quality at a discounted price. Shop now and start your day with goodness!",
   },
 ];
 
